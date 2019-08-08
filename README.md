@@ -18,7 +18,7 @@ Key Requirements: Python 3+, Keras 2+, TensorFlow 1+, OpenCV 2+.
 # How to run
 Clone the repository
 ```bash
-git clone https://github.com/yyyjoe/Educational-games-for-kids.git
+git clone https://github.com/ksty/Inspire
 ```
 
 Install required packages:
